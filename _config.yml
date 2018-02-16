@@ -17,10 +17,10 @@ exclude:
 - vendor
 plugins:
 - jekyll-seo-tag
-title: "Documentation Jeedom"
+title: "Documentation"
 description: "Ceci est la documentation, lier à la solution domotique Jeedom."
-author: "Jeedom"
-image: https://www.jeedom.com/site/logo.png
+author: "Jeedom-Plugins-Extra"
+image: https://avatars1.githubusercontent.com/u/36200380?s=200&v=4
 twitter:
   username: Jeedom_domotic
 social:
